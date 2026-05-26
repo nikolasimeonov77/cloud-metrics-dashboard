@@ -3,7 +3,7 @@
 Intro
 -----------
 
-You can use the monitoring service of SAP Cloud Platform to receive states and metrics of SAP Cloud Platform Java applications and the applications' processes. These Java applications can be in different SAP Cloud Platform subaccounts or even on different regions. For more information about the currently supported regions and their hosts, see [Regions and Hosts](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/350356d1dc314d3199dca15bd2ab9b0e.html).
+You can use the monitoring service of SAP Buisness Technology Platform (SAP BTP) to receive states and metrics of SAP BTP Java applications and the applications' processes. These Java applications can be in different SAP BTP subaccounts or even on different regions. For more information about the currently supported regions and their hosts, see [Regions and Hosts](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/350356d1dc314d3199dca15bd2ab9b0e.html).
 
 The only requirement for this scenario to work is that your user is a member of the subaccounts that the Java applications are located in. For more information about how to check subaccount memberships, see [Managing Members in the Neo Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/937c3cef72bb101490cf767db0e91070.html).
 
